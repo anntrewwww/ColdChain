@@ -144,7 +144,7 @@ function confirmarEliminacionCuenta() {
   const originalOnclick = btn.onclick;
 
   btn.onclick = function () {
-    window.location.href = "index.html";
+    window.location.href = "index2.html";
   };
 
   modal.style.display = "flex";
